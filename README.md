@@ -1,6 +1,6 @@
 # Ellie Yeung
 
-[Home](.) | [About](about.md) | [Resume](Ellie_Yeung_Resume.pdf) | [Github] | [LinkedIn]
+[About](about.md) | [Resume](Ellie_Yeung_Resume.pdf) | [Github] | [LinkedIn]
 
    [home]: <https://ellieyeung.me>
    [github]: <https://github.com/yelleagle/>
