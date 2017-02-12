@@ -4,7 +4,7 @@
 
 <img src="https://github.com/yelleagle/yelleagle.github.io/raw/master/WI16_EweekPhotos_Edited_SMA-51.jpg" width="150">
 
-<span style="background-color:grey" size=15>About</span>
+<span style="background-color:grey">About</span>
 
 Hi, I am Ellie Yeung, a 6th year Biomedical Engineering and Computer Science and Engineering double major seeking full-time opportunities for firmware development starting April 2017. As I'm figuring out the answer to life, I learned the best way for me to live is to follow my heart. After many opportunities to learn about myself and others, I'm coming up to a hypothesis, that I love helping others and building cool devices.
 
