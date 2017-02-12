@@ -4,6 +4,8 @@
 
 <img src="https://github.com/yelleagle/yelleagle.github.io/raw/master/WI16_EweekPhotos_Edited_SMA-51.jpg" width="150">
 
+<span style="background-color:grey">About</span>
+
 Hi, I am Ellie Yeung, a 6th year Biomedical Engineering and Computer Science and Engineering double major seeking full-time opportunities for firmware development starting April 2017. As I'm figuring out the answer to life, I learned the best way for me to live is to follow my heart. After many opportunities to learn about myself and others, I'm coming up to a hypothesis, that I love helping others and building cool devices.
 
 Moving from Hong Kong myself, I know the unnecessary feelings when adapting to a new country. I have joined leadership retreats and organizations that share experiences, discuss the issues of being a minority, and promote equity. I also found myself in volunteering opportunities to discourage being affected by stereotypes and to advocate STEM to younger students that did not necessarily have exposure to different opportunities.
