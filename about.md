@@ -14,6 +14,5 @@ Shadowing in my school's Veterinary Medicine Teaching Hospital for clinical need
 
 As I was taking courses and side projects, I found myself having a passion for embedded software and firmware. For my senior capstone project, I wrote an Arduino program for a Teensy, which uses the same IDE as an Arduino. I have also taken courses such as embedded systems, computer architecture, and declarative programming to find an interest in programming for a lower-level and for functionality. I'm currently seeking full-time opportunities in related fields. If any of you are looking for an organized person that loves to learn and has passion in embedded firmware, feel free to contact me at ellie (at) ellieyeung (dot) me
 
-   [home]: <https://ellieyeung.me>
    [github]: <https://github.com/yelleagle/>
    [linkedin]: <https://www.linkedin.com/in/ellieyeung>
