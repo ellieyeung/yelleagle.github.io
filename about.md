@@ -1,10 +1,10 @@
 # Ellie Yeung
 
-[About](about.md) | [Resume](Ellie_Yeung_Resume.pdf) | [Github] | [LinkedIn]
+[About](about.md) | [Resume](Ellie_Yeung_Resume.pdf) | [Github] | [BitBucket] | [LinkedIn]
 
 <img src="https://github.com/yelleagle/yelleagle.github.io/raw/master/WI16_EweekPhotos_Edited_SMA-51.jpg" width="150">
 
-<span style="background-color:grey">About</span>
+<span style="background-color:grey" size=15>About</span>
 
 Hi, I am Ellie Yeung, a 6th year Biomedical Engineering and Computer Science and Engineering double major seeking full-time opportunities for firmware development starting April 2017. As I'm figuring out the answer to life, I learned the best way for me to live is to follow my heart. After many opportunities to learn about myself and others, I'm coming up to a hypothesis, that I love helping others and building cool devices.
 
@@ -17,4 +17,5 @@ Shadowing in my school's Veterinary Medicine Teaching Hospital for clinical need
 As I was taking courses and side projects, I found myself having a passion for embedded software and firmware. For my senior capstone project, I wrote an Arduino program for a Teensy, which uses the same IDE as an Arduino. I have also taken courses such as embedded systems, computer architecture, and declarative programming to find an interest in programming for a lower-level and for functionality. I'm currently seeking full-time opportunities in related fields. If any of you are looking for an organized person that loves to learn and has passion in embedded firmware, feel free to contact me at ellie (at) ellieyeung (dot) me
 
    [github]: <https://github.com/yelleagle/>
+   [bitbucket]: <https://bitbucket.org/yelleagle/>
    [linkedin]: <https://www.linkedin.com/in/ellieyeung>
